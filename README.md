@@ -1,6 +1,10 @@
 # LinuTec-Projekte
 
 - [Zusammenfassung Arduino Sensoren](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren)
+- [DMX](https://github.com/Linu-Tec/LinuTec-Projekte/tree/main?tab=readme-ov-file#dmx)
+- [Lichtsteuerung](https://github.com/Linu-Tec/LinuTec-Projekte/tree/main?tab=readme-ov-file#lichtsteuerung)
+- [Arduino](https://github.com/Linu-Tec/LinuTec-Projekte/tree/main?tab=readme-ov-file#arduino)
+- []()
 
 
 --------------------------------------
